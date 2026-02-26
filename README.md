@@ -1,4 +1,4 @@
-# AI
+# 说明由AI生成
 
 # Empty Windows 内核驱动项目说明文档
 
